@@ -1,0 +1,2 @@
+import{A as t}from"./index.1d9b87c8.js";import"./index.203c1535.js";import"./iframe.63c18978.js";import"./index.be551ed6.js";import"./jsx-runtime.4d7b696f.js";const p={title:"Data Display/Avatar",component:t,args:{src:"https://github.com/jailsonh3.png",alt:"Jailson Silva"},argTypes:{src:{control:{type:"text"}}}},c={},l={args:{src:void 0}},m=["Primary","WithFallback"];export{c as Primary,l as WithFallback,m as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.f8d79625.js.map
